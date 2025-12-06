@@ -1,18 +1,40 @@
-# React + Vite
+## 📦 React + Redux Portfolio Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React ve Redux Toolkit yapısını pekiştirmek amacıyla geliştirilmiş bir frontend uygulamasıdır. İçerisinde component yapıları, global state yönetimi, reusable UI bileşenleri ve modern React pratikleri uygulanmıştır.
 
-Currently, two official plugins are available:
+Proje hem öğrenme amaçlı hem de GitHub portföyünü güçlendirmek için hazırlanmıştır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Kullanılan Teknolojiler
 
-## React Compiler
+React 18
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Redux Toolkit
 
-## Expanding the ESLint configuration
+React-Redux
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# react-redux
-# react-redux
+React Router DOM
+
+Modern Hooks Yapısı (useSelector, useDispatch, useState, useEffect)
+
+Component-Based Architecture
+
+Reusable UI Components
+
+🎯 Projenin Amacı
+
+Bu proje, React ekosisteminde state yönetimi konusunu derinleştirmek için tasarlanmıştır.
+Uygulama içinde:
+
+Global state yönetimi
+
+Redux slice yapıları
+
+Component – Store veri akışı
+
+Veri okuma, yazma, güncelleme süreçleri
+
+UI state yönetimi (modal, theme, loading vb.)
+
+gibi konular uygulanarak pratik kazanılmıştır.
+
+
