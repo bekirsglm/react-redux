@@ -4,7 +4,7 @@ Bu proje, React ve Redux Toolkit yapısını pekiştirmek amacıyla geliştirilm
 
 Proje hem öğrenme amaçlı hem de GitHub portföyünü güçlendirmek için hazırlanmıştır.
 
-🚀 Kullanılan Teknolojiler
+## 🚀 Kullanılan Teknolojiler
 
 React 18
 
@@ -20,7 +20,7 @@ Component-Based Architecture
 
 Reusable UI Components
 
-🎯 Projenin Amacı
+## 🎯 Projenin Amacı
 
 Bu proje, React ekosisteminde state yönetimi konusunu derinleştirmek için tasarlanmıştır.
 Uygulama içinde:
@@ -36,5 +36,9 @@ Veri okuma, yazma, güncelleme süreçleri
 UI state yönetimi (modal, theme, loading vb.)
 
 gibi konular uygulanarak pratik kazanılmıştır.
+
+# EKRAN GÖRÜNTÜSÜ
+![EkranKayd2026-01-04180808-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a946b776-6975-4b07-8c5c-ce1437dc87a8)
+
 
 
